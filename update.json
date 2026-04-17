@@ -1,9 +1,8 @@
 {
   "version": "1.0.6",
-  "buildNumber": 2006,
+  "buildNumber": 2007,
   "changelog": [
-    "[CINEMA] Запущен Sanctum Cinema: совместный просмотр YouTube",
-    "[FIX] Исправлены ошибки синхронизации чатов и базы данных"
+    "[FIX] Исправлены ошибки просмотра YouTube"
   ],
   "apkUrl": "https://github.com/VLADIMIRUS-dot/sanctum-releases/raw/main/releases/sanctum-arm64-v8a-release.apk",
   "date": "2026-04-17"
