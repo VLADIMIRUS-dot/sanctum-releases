@@ -1,11 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.5",
   "buildNumber": 2005,
   "changelog": [
-    "[SYS] E2EE Voice Messages initialized",
-    "[UI] Typing Indicators integrated",
-    "[SEC] Hive DB migration patched",
-    "[SYS] Fix chats"
+    "[UI] Исправлены статусы",
+    "[SYS] Исправлены проблемы с файлами и голосовыми сообщениями"
   ],
   "apkUrl": "https://github.com/VLADIMIRUS-dot/sanctum-releases/raw/main/releases/sanctum-arm64-v8a-release.apk",
   "date": "2026-04-17"
