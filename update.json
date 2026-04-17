@@ -4,7 +4,6 @@
   "changelog": [
     "[CINEMA] Запущен Sanctum Cinema: совместный просмотр YouTube",
     "[FIX] Исправлены ошибки синхронизации чатов и базы данных"
-]
   ],
   "apkUrl": "https://github.com/VLADIMIRUS-dot/sanctum-releases/raw/main/releases/sanctum-arm64-v8a-release.apk",
   "date": "2026-04-17"
