@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "buildNumber": 6,
+  "buildNumber": 3000,
   "changelog": [
     "[SYS] E2EE Voice Messages initialized",
     "[UI] Typing Indicators integrated",
