@@ -3,7 +3,8 @@
   "buildNumber": 2012,
   "changelog": [
     "[UPD] PROXY PROTOCOL: Улучшена работа SOCKS5/HTTP для обеспечения стабильности сигнала.",
-    "[FIX] Исправлены проблемы с Nexus protocol"
+    "[FIX] Исправлены проблемы с Nexus protocol",
+    "[UPD] Больше реакций!"
   ],
   "apkUrl": "https://github.com/VLADIMIRUS-dot/sanctum-releases/raw/main/releases/sanctum-arm64-v8a-release.apk",
   "date": "2026-04-22"
