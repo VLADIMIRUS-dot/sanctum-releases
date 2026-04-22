@@ -6,7 +6,7 @@
     "[NEW] MULTI-AGENT PIPELINE: Создавайте цепочки из нескольких нейросетей для сложных задач.",
     "[UPD] PROXY PROTOCOL: Улучшена работа SOCKS5/HTTP для обеспечения стабильности сигнала.",
     "[FIX] CINEMA STABILIZATION: Исправлены ошибки синхронизации при просмотре YouTube."
-  ]
+  ],
   "apkUrl": "https://github.com/VLADIMIRUS-dot/sanctum-releases/raw/main/releases/sanctum-arm64-v8a-release.apk",
   "date": "2026-04-17"
 }
