@@ -1,11 +1,9 @@
 {
   "version": "1.0.7",
-  "buildNumber": 2011,
+  "buildNumber": 2012,
   "changelog": [
-    "[INIT] ЗАПУСК NEXUS CORE: Ваш личный изолированный ИИ-терминал.",
-    "[NEW] MULTI-AGENT PIPELINE: Создавайте цепочки из нескольких нейросетей для сложных задач.",
     "[UPD] PROXY PROTOCOL: Улучшена работа SOCKS5/HTTP для обеспечения стабильности сигнала.",
-    "[FIX] CINEMA STABILIZATION: Исправлены ошибки синхронизации при просмотре YouTube."
+    "[FIX] Исправлены проблемы с Nexus protocol"
   ],
   "apkUrl": "https://github.com/VLADIMIRUS-dot/sanctum-releases/raw/main/releases/sanctum-arm64-v8a-release.apk",
   "date": "2026-04-22"
