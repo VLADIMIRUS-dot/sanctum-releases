@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "buildNumber": 2012,
+  "buildNumber": 2013,
   "changelog": [
     "[UPD] PROXY PROTOCOL: Улучшена работа SOCKS5/HTTP для обеспечения стабильности сигнала.",
     "[FIX] Исправлены проблемы с Nexus protocol",
